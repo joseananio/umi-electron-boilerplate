@@ -16,3 +16,5 @@ dist
 # umi
 .umi
 .umi-production
+# others
+now.json
