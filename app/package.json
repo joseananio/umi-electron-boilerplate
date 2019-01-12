@@ -1,11 +1,10 @@
 {
   "name": "nexans_web",
   "version": "1.0.0",
-  "description": "umi+dva+electron.",
+  "description": "umi+react+electron.",
   "main": "dist/main/main.js",
   "author": {
-    "name": "Joseph Anane",
-    "email": "ananej71@gmail.com"
+    "name": "Joseph Anane"
   },
   "dependencies": {
     "electron-config": "^1.0.0",
