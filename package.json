@@ -31,11 +31,6 @@
     "lint": "eslint --ext .js src app mock tests",
     "precommit": "lint-staged"
   },
-  "dependencies": {
-    "electron-config": "^2.0.0",
-    "electron-is": "^3.0.0",
-    "electron-log": "^2.2.17"
-  },
   "devDependencies": {
     "@types/jest": "^23.3.12",
     "@types/react": "^16.7.18",
@@ -47,6 +42,9 @@
     "electron-builder": "^20.38.4",
     "electron-dev": "^1.0.1",
     "electron-rebuild": "^1.8.2",
+    "electron-config": "^2.0.0",
+    "electron-is": "^3.0.0",
+    "electron-log": "^2.2.17",
     "eslint": "^5.4.0",
     "eslint-config-umi": "^1.4.0",
     "eslint-plugin-flowtype": "^2.50.0",
