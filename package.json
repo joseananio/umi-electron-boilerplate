@@ -29,7 +29,7 @@
     "rebuild": "electron-rebuild -m ./app",
     "test": "APP_ROOT=src/renderer umi test",
     "lint": "eslint --ext .js src app mock tests",
-    "precommit": "lint-staged"
+    "noprecommit": "lint-staged"
   },
   "devDependencies": {
     "@types/jest": "^23.3.12",
